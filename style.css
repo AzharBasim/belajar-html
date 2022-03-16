@@ -1,0 +1,14 @@
+.head {
+    color: rgb(172, 2, 2);
+    text-align:center;
+    border-style: double;
+    border-width: 10em;
+}
+
+.paragraph-1{
+    background-color: aqua;
+}
+
+.paragraph-2{
+    background-color: rebeccapurple;
+}
